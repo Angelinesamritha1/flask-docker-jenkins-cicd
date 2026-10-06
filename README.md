@@ -105,5 +105,5 @@ so there is no live URL. When deployed, the app is served at `http://<EC2-PUBLIC
 
 ## Author
 
-**Angeline Samritha** – AWS & DevOps Learner
+**Angeline Samritha** – Aspiring AWS & DevOps Engineer
 [GitHub](https://github.com/Angelinesamritha1) 
